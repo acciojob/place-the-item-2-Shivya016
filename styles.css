@@ -3,4 +3,4 @@
 .item-3{background-color:green;padding:50px;}
 .item-2{background-color:blue;padding:50px}
 .item-1{background-color:red;padding:50px}
-.holder{display:flex;font-size:70px;justify-content:center;}
+.holder{display:flex;font-size:70px;justify-content:center; flex-wrap:wrap;}
